@@ -1,6 +1,24 @@
-# get_next_line
+# 📖 get_next_line
 
-A C library function that reads a file line by line, implemented as part of the 42 school curriculum.
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Build-Passing-success.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
+
+<div align="center">
+
+# 📖 get_next_line
+
+> A C library function that reads a file line by line, implemented as part of the 42 school curriculum.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/get_next_line-42?style=social)](https://github.com/yourusername/get_next_line-42/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/get_next_line-42?style=social)](https://github.com/yourusername/get_next_line-42/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/get_next_line-42)](https://github.com/yourusername/get_next_line-42/issues)
+
+</div>
+
+---
 
 ## 📖 Description
 
@@ -144,4 +162,3 @@ This project is part of the 42 school curriculum and follows the school's coding
 ---
 
 *This project demonstrates advanced C programming concepts including memory management, file I/O, and static variables.*
-
